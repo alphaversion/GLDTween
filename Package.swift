@@ -15,6 +15,6 @@ let package = Package(
         .target(
             name: "GLDTween",
             dependencies: [],
-            sources: ["GLDTween/*", "GLDTween/Plugins/*"],)
+            path: "GLDTween")
     ]
 )
