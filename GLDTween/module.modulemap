@@ -1,0 +1,10 @@
+module GLDTween {
+    header "GLDTween.h"
+    header "GLDEasingPlugin.h"
+    header "GLDTweenBlock.h"
+    header "GLDTweenProperty.h"
+    header "GLDTweenPropertyPlugin.h"
+    header "GLDTweenSelector.h"
+    header "GLDTweenTween.h"
+    export *
+}

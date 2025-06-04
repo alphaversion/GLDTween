@@ -15,6 +15,8 @@ let package = Package(
         .target(
             name: "GLDTween",
             dependencies: [],
-            path: "GLDTween")
+            path: "GLDTween",
+            publicHeadersPath: "."
+        )
     ]
 )
